@@ -111,7 +111,7 @@ npm install --legacy-peer-deps
 
    **Example:**
    ```
-   GEMINI_API_KEY=AIzaSyBnXxXxXxXxXxXxXxXxXxXxXxXxXxXxXxX
+   GEMINI_API_KEY= *****************************
    ```
 
 ### Step 4: Start Development Server
